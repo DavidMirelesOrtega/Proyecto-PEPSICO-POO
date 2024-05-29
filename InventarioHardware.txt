@@ -1,0 +1,4 @@
+Hardware|Cantidad
+Computadora|10
+Nuevo|4
+Si|1

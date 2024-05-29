@@ -1,0 +1,4 @@
+Nombre|Hardware|Tag
+Empleado1|Computadora|123
+a|Computadora|456
+Empleado1|Nuevo|789

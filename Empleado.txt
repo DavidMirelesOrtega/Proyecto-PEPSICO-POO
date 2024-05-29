@@ -1,0 +1,3 @@
+Nombre|Puesto|Area
+Empleado1|Puesto1|Area1
+a|a|a
